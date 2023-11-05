@@ -88,6 +88,6 @@ def validSudoku(board):
 
     return True
 
-
+ 
 assert validSudoku(board) == True
 assert validSudoku(board2) == False
